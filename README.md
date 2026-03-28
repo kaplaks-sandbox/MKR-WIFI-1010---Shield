@@ -12,10 +12,10 @@ The I2C and SPI interfaces should also align with the pinouts of other Micro-Con
 #### Circuit Description
 It consists of a Power Input with two adjustable voltage regulators to provide a 3V3 and 5V supply for use by the controller and pheripherals.
 
-There 3 x I2C interfaces and 3 x SPI interfaces.
-An ADC interface
+There 3 x I2C interfaces and 2 x SPI interfaces.
+And 2 x  ADC interfaces
 
-With the ESP32 - IO pins can have a number of functions. Refer to the diagram for where these are connected and what could be done.
+With the MKR - IO pins can have a number of functions. Refer to the diagram for where these are connected and what could be done.
 
 #### Assembly
 The Micro-Controller is mounted on headers to make it easier for future replacements/repairs.
